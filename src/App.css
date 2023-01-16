@@ -1,3 +1,8 @@
+.Chart {
+  background-size: 40px 40px;
+  background-image: radial-gradient(circle, #000000 1px, rgba(0, 0, 0, 0) 1px);
+}
+
 .App {
   text-align: center;
 }
